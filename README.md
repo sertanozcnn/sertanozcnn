@@ -22,4 +22,9 @@
 
 
 
+
+
+
+
+
 ![snake gif](https://github.com/sertanozcnn/sertanozcnn/blob/output/github-contribution-grid-snake.gif)
