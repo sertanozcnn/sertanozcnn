@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sertan Özcan</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
-
 - 🌱 I’m currently learning **Java,Kotlin**
 
 - 📫 How to reach me **sertanozcan.tr@gmail.com**
