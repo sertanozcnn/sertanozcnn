@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sertan Özcan</h1>
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Dart**
 
 - 📫 How to reach me **sertanozcan.tr@gmail.com**
 
