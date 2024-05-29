@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sertan Özcan</h1>
-- 🌱 I’m currently learning **Java and Kotlin**
 
+- 🌱 I’m currently learning **Java and Kotlin**
 - 📫 How to reach me **sertanozcan.tr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
