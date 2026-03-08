@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Sertan Özcan
 
-### Full-Stack & Mobile Developer 🚀
+### Full-Stack Developer 🚀
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+mobile+apps+with+React+Native;Backend+systems+with+NestJS+%26+Spring+Boot;Passionate+about+clean+architecture;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
@@ -18,12 +18,10 @@
 |---|---|
 | 📍 Location | Turkey 🇹🇷 |
 | 🎯 Focus | Mobile Development, Backend Architecture, Full-Stack Apps |
-| 🔨 Building | **Ehliyet 360** — Driving License Exam App |
-| 📱 Mobile | React Native · Expo · NativeWind |
+| � Mobile | React Native · Expo · NativeWind |e
 | 🌐 Frontend | Next.js · React · TypeScript · Tailwind CSS |
 | ⚙️ Backend | NestJS · Spring Boot · Prisma · PostgreSQL |
-| 🧰 Tools | Firebase · Cloudflare R2 · EAS Build · Docker |
-| 😄 Fun Fact | I debug in production and call it *'live testing'* |
+| 🧰 Tools | Firebase · Cloudflare R2 · EAS Build · Docker · WordPress |
 
 </div>
 
