@@ -1,17 +1,19 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=220&section=header&text=Sertan%20Özcan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=220&section=header&text=Sertan%20%C3%96zcan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+mobile+apps+with+React+Native;Backend+systems+with+NestJS+%26+Spring+Boot;Passionate+about+clean+architecture;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
+---
+
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-```typescript
+```js
 const sertan = {
   location: "Turkey 🇹🇷",
   focus: ["Mobile Development", "Backend Architecture", "Full-Stack Apps"],
@@ -25,6 +27,8 @@ const sertan = {
   funFact: "I debug in production and call it 'live testing' 😄",
 };
 ```
+
+---
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
@@ -43,6 +47,8 @@ const sertan = {
 <img src="https://skillicons.dev/icons?i=postgres,prisma,firebase,docker,figma,git&theme=dark" />
 
 </div>
+
+---
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -67,6 +73,8 @@ const sertan = {
 
 </div>
 
+---
+
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
@@ -84,11 +92,16 @@ const sertan = {
 
 </div>
 
+---
+
 <!-- Connect -->
 ## 🤝 Connect
 
 <div align="center">
 
+<a href="https://sertanozcan.net" target="_blank">
+  <img src="https://img.shields.io/badge/Website-sertanozcan.net-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/sertanozcnn" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -106,9 +119,15 @@ const sertan = {
 
 </div>
 
+---
+
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sertanozcnn/sertanozcnn/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sertanozcnn/sertanozcnn/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sertanozcnn/sertanozcnn/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/sertanozcnn/sertanozcnn/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <!-- Footer -->
